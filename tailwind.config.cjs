@@ -28,7 +28,7 @@ module.exports = {
         site: "url('./assets/site-bg3.jpg')",
         about: "url('./assets/about1.png')",
         services: "url('./assets/services2.png')",
-        logo: "url('./assets/logo2.png')",
+        logo: "url('https://ik.imagekit.io/jastipQue/portfolio/tr:w-auto,f-webp,q-20/My_Logo__Color__TYbSRNv16.png')",
       },
     },
   },
