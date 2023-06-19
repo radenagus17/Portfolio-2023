@@ -9,7 +9,7 @@ const Header = () => {
         <div className="flex justify-between items-center">
           {/* logo */}
           <a href="#" className="lg:w-12 w-8 flex gap-x-3 items-center">
-            <img src="https://ik.imagekit.io/jastipQue/portfolio/tr:w-auto,f-avif,q-80/My_Logo__Color__TYbSRNv16.png" alt="" />
+            <img src="https://ik.imagekit.io/jastipQue/portfolio/tr:w-auto,f-webp,q-20/My_Logo__Color__TYbSRNv16.png" alt="" />
             <h1 className="font-signature lg:text-4xl text-2xl">Radenagus17_</h1>
           </a>
           {/* button */}
